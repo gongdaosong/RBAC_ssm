@@ -1,0 +1,5 @@
+com\gds\web\ServerStartupListener.class
+com\gds\controller\TestController.class
+com\gds\web\AuthInterceptor.class
+com\gds\web\LoginInterceptor.class
+com\gds\controller\DispatcherController.class

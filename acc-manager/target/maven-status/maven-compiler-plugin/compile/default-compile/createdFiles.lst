@@ -1,0 +1,12 @@
+com\gds\service\PermissionService.class
+com\gds\dao\PermissionDao.class
+com\gds\service\impl\UserServiceImpl.class
+com\gds\controller\PermissionController.class
+com\gds\controller\UserController.class
+com\gds\service\impl\RoleServiceImpl.class
+com\gds\dao\UserDao.class
+com\gds\service\UserService.class
+com\gds\service\impl\PermissionServiceImpl.class
+com\gds\service\RoleService.class
+com\gds\controller\RoleController.class
+com\gds\dao\RoleDao.class
