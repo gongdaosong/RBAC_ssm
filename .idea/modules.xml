@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/acc-common/acc-common.iml" filepath="$PROJECT_DIR$/acc-common/acc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acc-manager/acc-manager.iml" filepath="$PROJECT_DIR$/acc-manager/acc-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acc-parent/acc-parent.iml" filepath="$PROJECT_DIR$/acc-parent/acc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acc-portal/acc-portal.iml" filepath="$PROJECT_DIR$/acc-portal/acc-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/acc-web/acc-web.iml" filepath="$PROJECT_DIR$/acc-web/acc-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/acc项目.iml" filepath="$PROJECT_DIR$/.idea/acc项目.iml" />
+    </modules>
+  </component>
+</project>

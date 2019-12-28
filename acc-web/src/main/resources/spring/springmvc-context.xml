@@ -13,6 +13,7 @@
 
     <mvc:default-servlet-handler/>
     <mvc:annotation-driven/>
+
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/**"/>
@@ -44,12 +45,14 @@
         </mvc:interceptor>
     </mvc:interceptors>
 
+    <!-- 视图解析器（跳转页面）-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="viewClass" value="org.springframework.web.servlet.view.JstlView"/>
         <property name="prefix" value="/WEB-INF/jsp/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <!--返回json数据 -->
     <bean class="org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter">
         <property name="messageConverters">
             <list>

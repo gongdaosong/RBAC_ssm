@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/acc-web" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/acc-common/pom.xml" />
+        <option value="$PROJECT_DIR$/acc-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/acc-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/acc-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/acc-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
