@@ -13,6 +13,10 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 import com.gds.bean.Permission;
 
+/**
+ * 处理程序拦截器适配器
+ */
+
 public class AuthInterceptor extends HandlerInterceptorAdapter {
 
 	@Autowired
